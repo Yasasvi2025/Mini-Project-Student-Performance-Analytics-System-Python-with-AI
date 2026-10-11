@@ -1,0 +1,31 @@
+Student_ID,Name,Department,Python,SQL,HTML,CSS,JavaScript,Attendance,Total_Marks,Average_Marks,Grade,Result,Performance
+101,Anjali,CSE,85,78,90,88,82,92,423,84.6,A,Pass,Very Good
+102,Rahul,CSE,72,80,75,70,78,85,375,75.0,B,Pass,Very Good
+103,Sneha,IT,95,92,88,94,96,98,465,93.0,A+,Pass,Excellent
+104,Arjun,CSE,60,65,58,62,70,75,315,63.0,C,Pass,Good
+105,Priya,IT,88,85,91,89,90,94,443,88.6,A,Pass,Very Good
+106,Kiran,ECE,76,74,80,78,82,88,390,78.0,B,Pass,Very Good
+107,Meena,CSE,92,89,95,91,94,96,461,92.2,A+,Pass,Excellent
+108,Vikram,IT,68,72,65,70,74,82,349,69.8,C,Pass,Good
+109,Divya,ECE,81,79,85,83,87,90,415,83.0,A,Pass,Very Good
+110,Rohit,CSE,55,62,58,60,65,78,300,60.0,C,Pass,Good
+111,Kavya,IT,90,94,89,92,91,97,456,91.2,A+,Pass,Excellent
+112,Aditya,CSE,73,69,76,72,78,84,368,73.6,B,Pass,Good
+113,Neha,ECE,86,88,84,87,85,93,430,86.0,A,Pass,Very Good
+114,Manoj,IT,48,55,52,50,58,76,263,52.6,D,Pass,Average
+115,Pooja,CSE,79,82,80,77,84,89,402,80.4,A,Pass,Very Good
+116,Akash,ECE,64,60,68,65,70,80,327,65.4,C,Pass,Good
+117,Isha,IT,93,90,92,95,94,98,464,92.8,A+,Pass,Excellent
+118,Varun,CSE,58,61,55,59,63,74,296,59.2,D,Fail,Average
+119,Riya,ECE,84,86,82,88,89,91,429,85.8,A,Pass,Very Good
+120,Sanjay,IT,70,75,72,74,76,86,367,73.4,B,Pass,Good
+121,Aarav,CSE,82,85,79,84,88,91,418,83.6,A,Pass,Very Good
+122,Simran,IT,91,87,93,90,89,95,450,90.0,A+,Pass,Excellent
+123,Harish,ECE,67,71,69,73,75,83,355,71.0,B,Pass,Good
+124,Nisha,CSE,89,92,86,88,91,96,446,89.2,A,Pass,Very Good
+125,Varun,IT,74,78,72,76,80,87,380,76.0,B,Pass,Very Good
+126,Swathi,ECE,96,94,91,93,95,99,469,93.8,A+,Pass,Excellent
+127,Manish,CSE,63,68,61,65,70,79,327,65.4,C,Pass,Good
+128,Keerthi,IT,85,83,88,86,90,92,432,86.4,A,Pass,Very Good
+129,Rakesh,ECE,77,75,81,79,84,89,396,79.2,B,Pass,Very Good
+130,Aditi,CSE,94,91,96,92,93,97,466,93.2,A+,Pass,Excellent
